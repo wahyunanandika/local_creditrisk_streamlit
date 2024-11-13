@@ -102,5 +102,3 @@ Access the API at `http://127.0.0.1:8000` in your browser or API client like Pos
 This project is licensed under the MIT License.
 
 ---
-
-This `README.md` will help users understand how to set up, run, and test your project locally. Adjust any specifics, such as the repository URL or paths, as needed!
