@@ -37,7 +37,6 @@ The Loan Default Prediction API is designed to help classify loan applicants as 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/wahyunanandika/LocalVer_CreditRisk_Streamlit.git
-   cd loan-default-prediction-api
    ```
 
 2. **Install dependencies**:
